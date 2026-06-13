@@ -27,7 +27,7 @@ Learning Outcomes
 - Python Programming
 - Cybersecurity Fundamentals
 
-Author
+Author:
 Ranjana Rao
 
 Cybersecurity Internship Project
